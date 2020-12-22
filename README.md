@@ -1,4 +1,4 @@
-# Market Business Analysis
+# Market Basket Analysis
 
 - Sample program to implement **MB** using **Apriori Algorithm**
 - Dataset from [Kaggle](https://www.kaggle.com/asamir/online-retail-analyze-with-association-rules/data?select=Online+Retail.xlsx)
